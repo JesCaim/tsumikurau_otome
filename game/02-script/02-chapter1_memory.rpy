@@ -15,6 +15,8 @@ label chapter1_memory:
     她的存在就像一面过于洁净的镜子，映照出周围所有人的瑕疵。
     """
     
+    nvl clear
+
     show role7 at center with dissolve
     role7 "早上好，今天天气真好呢。"
     narrator_adv "她的声音总是那么平稳，平稳得让人怀疑其中是否真的蕴含情感。"
