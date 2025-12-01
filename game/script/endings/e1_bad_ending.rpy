@@ -1,4 +1,4 @@
-label ending_peace:
+label e1_start:
     role7 "于是，我祈愿着我们的安息"
     narrator_adv "远藤伊甸的声音在虚空中回荡，仿佛来自另一个维度。"
     
