@@ -1,11 +1,11 @@
 # 角色定义
-define role1 = Character('高贵的少女', color="#700c40", image="role1")
-define role2 = Character('仁慈的少女', color="#04a136", image="role2")
-define role3 = Character('冷静的少女', color="#0f96d9", image="role3")
-define role4 = Character('正义的少女', color="#bcdf11", image="role4")
-define role5 = Character('怀罪的少女们', color="#f31414", image="role5")
-define role6 = Character('？', color="#fcbf07", image="role6")
-define role7 = Character('远藤伊甸', color="#5151eb", image="role7")
+define maidenNoble = DynamicynamicCharacter('高贵的少女', color="#0707F3", image="role1")
+define maidenMerciful = DynamicynamicCharacter('仁慈的少女', color="#04a136", image="role2")
+define maidenCalm = DynamicynamicCharacter('冷静的少女', color="#E66C00", image="role3")
+define maidenJustice = DynamicynamicCharacter('正义的少女', color="#878905", image="role4")
+define maidenGuilty = DynamicynamicCharacter('怀罪的少女们', color="#f31414", image="role5")
+define mistery = DynamicynamicCharacter('？', color="#0c0901", image="role6")
+define endoEden = DynamicynamicCharacter('远藤伊甸', color="#8307eb", image="role7")
 
 # 叙述者定义
 define narrator_nvl = Character(None, kind=nvl)
