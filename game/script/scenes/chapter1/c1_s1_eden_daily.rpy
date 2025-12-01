@@ -17,17 +17,22 @@ label c1_s1:
     
     nvl clear
 
+    # 显示远藤伊甸 - 使用 endoEden
     show role7 at center with dissolve
-    role7 "早上好，今天天气真好呢。"
+    $ endoEden.say("早上好，今天天气真好呢。")
     narrator_adv "她的声音总是那么平稳，平稳得让人怀疑其中是否真的蕴含情感。"
     
     hide role7
+    
+    # 显示三位少女并让她们说话
     show role1 at left
-    role1 "她为什么不生气？我明明说了那么过分的话..."
+    $ maidenNoble.say("她为什么不生气？我明明说了那么过分的话...")
+    
     show role2 at right
-    role2 "她为什么不哭泣？明明失去了那么重要的东西..."
+    $ maidenMerciful.say("她为什么不哭泣？明明失去了那么重要的东西...")
+    
     show role3 at center
-    role3 "她为什么不犯错？就像...就像不是人类一样。"
+    $ maidenCalm.say("她为什么不犯错？就像...就像不是人类一样。")
     
     narrator_adv "怀疑的种子一旦种下，就会在黑暗中悄然生长。"
     narrator_adv "而远藤伊甸，依然维持着她那完美的、令人毛骨悚然的平凡。"
