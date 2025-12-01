@@ -32,7 +32,7 @@ label start:
     menu:
         "踏入循环":
             $ set_chapter_colors()  # 应用章节颜色变化
-            jump chapter1_memory
+            jump scene1_1
             
         "结束回忆":
             $ reset_eden_color()  # 确保远藤伊甸颜色正确

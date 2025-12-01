@@ -1,4 +1,4 @@
-label chapter1_memory:
+label scene1_1:
     narrator_adv "远藤伊甸是一个「平凡」的孩子。"
     narrator_adv "至少在表面上如此。"
     narrator_adv "她有着恰到好处的成绩，恰到好处的朋友，恰到好处的生活。"
