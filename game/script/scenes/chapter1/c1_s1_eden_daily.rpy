@@ -25,13 +25,13 @@ label c1_s1:
     hide role7
     
     # 显示三位少女并让她们说话
-    show role1 at left
+    show role1 normal at left
     $ maidenNoble.say("她为什么不生气？我明明说了那么过分的话...")
     
-    show role2 at right
+    show role2 normal at right
     $ maidenMerciful.say("她为什么不哭泣？明明失去了那么重要的东西...")
     
-    show role3 at center
+    show role3 normal at center
     $ maidenCalm.say("她为什么不犯错？就像...就像不是人类一样。")
     
     narrator_adv "怀疑的种子一旦种下，就会在黑暗中悄然生长。"
