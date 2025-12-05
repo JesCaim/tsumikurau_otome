@@ -7,7 +7,7 @@ define maidenGuilty = GameCharacter("怀罪的少女们", "#f31414", "role5")
 define mistery = GameCharacter("？", "#0c0901", "role6")
 
 # 主角 - 远藤伊甸
-define endoEden = GameCharacter("远藤伊甸", "#8307eb", "role7")
+define endoEden = GameCharacter("远藤伊甸", "#8307eb", "eden")
 
 # 为角色设置罪孽类型（七宗罪）
 init python:
