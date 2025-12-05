@@ -5,6 +5,7 @@
 # 1. 定义背景 
 image bg school_hallway = "images/bg/school_hallway.png"
 image bg classroom = "images/bg/classroom.png"
+image bg jiting = "images/bg/jiting.png"
 
 # 2. 定义伊甸的立绘 (应用缩放变换)
 # 注意：这里对应 endoEden 初始化时的 image="eden"

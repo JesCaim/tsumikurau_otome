@@ -98,5 +98,21 @@ label c1_s1:
     
     narrator_adv "怀疑的种子一旦种下，就会在黑暗中悄然生长。"
 
+    scene bg jiting with fade
+
+    show eden happy
+    $ endoEden.say("我要打舞萌！！！")
+
+    show eden angry with vpunch
+    $ endoEden.say("我要打舞萌！！！")
+
+    show eden happy with vpunch
+    $ endoEden.say("我操！！！！！！！！！")
+
+    show eden angry with vpunch
+    $ endoEden.say("一个人都没有！！！！！！！！！")
+
+    show eden normal
+    $ endoEden.say("...唔。")
     # 结束本节，跳转回流程控制
     jump start
